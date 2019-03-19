@@ -1,4 +1,4 @@
-# FootAsylum API Base
+# Laravel API Skeleton
 This project should serve as a starting point for any future API development. It has already got some packages that could help in kickstarting the api development.
 
 # Requirements
